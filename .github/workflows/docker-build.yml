@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: cmedinao/python-helloworld:latest
+          tags: clmedina538/python-helloworld:latest
